@@ -17,6 +17,6 @@
 	"description": "A port of OOPS.js for node. Enables a very simple structure for Object Oriented Programming.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cleod9/node-oops"
+        "url": "https://github.com/cleod9/node-oopsjs"
     }
 }
