@@ -1,0 +1,22 @@
+{
+    "name": "OOPS.js",
+	"version": "1.0.0",
+    "author": "Greg McLeod <cleod9@gmail.com>",
+	"dependencies": {
+	},
+    "keywords": [
+        "mcleodgaming",
+	    "OOP",
+		"oops",
+	    "javascript",
+	    "class",
+		"inheritance"
+    ],
+	"main": "./index",  
+	"license": "MIT",
+	"description": "A port of OOPS.js for node. Enables a very simple structure for Object Oriented Programming.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cleod9/node-oops"
+    }
+}
