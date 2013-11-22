@@ -38,12 +38,23 @@ For **full instructions**, see the original [OOPS.js](https://github.com/Cleod9/
 
 This library also works great with [ImportJS for Node](https://github.com/Cleod9/node-importjs)!
 
-
 ## Version History ##
+
+**1.1.1**
+
+- Minor syntax change
+
+**1.1.0**
+
+- Greatly simplified the setup structure by using standard JS practices
+- Replaced _parent_ property with _super_
+
+(99% backwards compatible with 1.0.0)
+
 
 **1.0.0**
 
--Initial release
+- Initial release
 
 ----------
 
