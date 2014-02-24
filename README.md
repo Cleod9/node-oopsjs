@@ -18,7 +18,7 @@ And that's it! You can then start using it by simply requiring the oopsjs packag
 var OOPS = require('oopsjs');
 ```
 
-You will then have access to the library through the variable `OOPS`.  Please note that this object's scope is limited to the module it was required in, so if you would like to share the same instance of the library across separate modules you will need to make sure to pass references of the `OOPS`Object to each of them. 
+You will then have access to the library through the variable `OOPS`.  And as with most Node.js modules, the reference you pull by requiring the module will be shared across all of your files that do `require('oopsjs')`.
 
 See below for a quick example:
 
