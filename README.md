@@ -18,9 +18,7 @@ And that's it! You can then start using it by simply requiring the oopsjs packag
 var OOPS = require('oopsjs');
 ```
 
-You will then have access to the library through the variable `OOPS`.  And as with most Node.js modules, the reference you pull by requiring the module will be shared across all of your files that do `require('oopsjs')`.
-
-See below for a quick example:
+You will then have access to the library through the variable `OOPS`. See below for a quick example:
 
 ```
 //Define a class
@@ -40,6 +38,10 @@ This library also works great with [ImportJS for Node](https://github.com/Cleod9
 
 ## Version History ##
 
+**1.1.2**
+
+- Readme update (Node.js)
+ 
 **1.1.1**
 
 - Minor syntax change
